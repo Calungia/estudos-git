@@ -1,2 +1,2 @@
 # estudos git
- aprendendo saporra
+ Learning how to use git and github properly.
